@@ -31,7 +31,7 @@ export default function SideNavBar() {
 
     return (
         <TooltipProvider>
-            <div className="bg-white bg-pattern bg-bottom bg-no-repeat relative min-w-[80px] border-r pb-10 pt-12">
+            <div className="bg-white bg-pattern min-h-screen bg-bottom bg-no-repeat relative min-w-[80px] border-r pb-10 pt-12">
 
                 <div className=" pb-6 mx-4">
                     <div className="flex items-center bg-orange_2 text-white rounded-lg shadow-md px-4 py-2">

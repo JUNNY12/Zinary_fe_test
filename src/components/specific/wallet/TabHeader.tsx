@@ -2,7 +2,7 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { transactionData } from "@/constants/constants"
 import { DataTable } from "@/components/common/DataTable"
-import { columnsData } from "@/components/common/ColumnsData"
+import { columnsData } from "@/constants/ColumnsData"
 import { Button } from "@/components/ui/button"
 
 export default function TabHeader() {

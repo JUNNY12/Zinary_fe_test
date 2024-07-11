@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils"
 import { formatCurrencyInNaira } from "@/helpers/formatCurrency"
 import { ColumnDef } from "@tanstack/react-table"
 import { ArrowUpDown } from "lucide-react"
-import { Button } from "../ui/button"
+import { Button } from "@/components/ui/button"
 import {
     DropdownMenu,
     DropdownMenuContent,
